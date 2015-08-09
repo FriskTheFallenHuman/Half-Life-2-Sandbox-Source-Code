@@ -1,5 +1,7 @@
 # Half-Life 2: Sandbox
 
+Note: This is the code from the original repository. give credits to original creator I'm Only Importing to Github due to read-only change fron code google
+
 Original Qoutes:
 
 Proudly powered by
